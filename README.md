@@ -14,3 +14,7 @@ You work for Motor Trend, a magazine about the automobile industry. Looking at a
 * Use the automatic transmission , the manual transmission and both as the preditors to make OLS regression of the outcome MPG respectively and make some tests and plots to find out which one or both is a better preditor.
 * Understand the coefficients and residuals
 * Because MPG might be influenced by many other variables in the dataset, make a multivariable regression is reasonable as well.
+
+### Report
+
+The report and analysis can be found [here](http://rpubs.com/benjaminphillips22/167482)
